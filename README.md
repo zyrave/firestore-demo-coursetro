@@ -1,6 +1,15 @@
-# FirebaseDemo
+# Firestore Demo Coursetro
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.
+
+## Features
+
+* [Angular](https://angular.io/)
+* [Angular CLI](https://cli.angular.io/)
+* [Typescript](http://www.typescriptlang.org/)
+* [Bootstrap 4](http://v4-alpha.getbootstrap.com/)
+* [Ng-Bootstrap](https://github.com/ng-bootstrap/ng-bootstrap/)
+* [Firestore](https://firebase.google.com/)
 
 ## Development server
 

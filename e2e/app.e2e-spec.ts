@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('firebase-demo App', () => {
+describe('firestore-demo-coursetro App', () => {
   let page: AppPage;
 
   beforeEach(() => {
